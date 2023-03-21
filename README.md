@@ -1,16 +1,23 @@
-### Hi there 👋
+![stats](https://github-readme-stats.vercel.app/api?username=RossComputerGuy&theme=tokyonight)
 
-<!--
-**RossComputerGuy/RossComputerGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Projects
 
-Here are some ideas to get you started:
+##### ExpidusOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[All repositories](https://github.com/ExpidusOS)
+
+[Website](https://expidusos.com)
+
+#### Contributions
+
+[NixOS/Nixpkgs](https://github.com/NixOS/nixpkgs/issues?q=author%3ARossComputerGuy)
+
+[Zig](https://github.com/ziglang/zig/issues?q=author%3ARossComputerGuy)
+
+#### Check me out on
+
+Mastodon: [thecomputerguy@bitbang.social](https://bitbang.social/@thecomputerguy)
+
+Twitter: [@RossComputerGuy](https://twitter.com/RossComputerGuy)
+
+LinkedIn: [Tristan Ross](https://www.linkedin.com/in/tristan-ross-5408141aa/)
